@@ -25,6 +25,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"node": "^21.1.0"
+		"node": "^21.1.0",
+		"yarn": "^1.22.19"
 	}
 }
