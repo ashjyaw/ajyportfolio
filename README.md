@@ -1,7 +1,4 @@
-
-
 ## Developing
-
 
 ```bash
 npm run dev
