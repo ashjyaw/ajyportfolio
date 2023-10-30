@@ -27,7 +27,7 @@
 	"type": "module",
 	"dependencies": {
 		"nginx": "^1.0.8",
-		"node": "^21.1.0",
+		"node": "14",
 		"vercel": "^32.5.0"
 	}
 }
